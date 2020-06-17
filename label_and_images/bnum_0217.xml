@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bnum</folder>
+	<filename>bnum_0217.jpg</filename>
+	<path>C:\Users\이세정\Desktop\data\bnum\bnum_0217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>149</ymin>
+			<xmax>213</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

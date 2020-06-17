@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat</folder>
+	<filename>seat_0171.jpg</filename>
+	<path>C:\Users\이세미\Desktop\data\seat\seat_0171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>106</ymin>
+			<xmax>277</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

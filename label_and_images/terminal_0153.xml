@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terminal</folder>
+	<filename>terminal_0153.jpg</filename>
+	<path>C:\Users\이세미\Desktop\data\terminal\terminal_0153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terminal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>22</ymin>
+			<xmax>188</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

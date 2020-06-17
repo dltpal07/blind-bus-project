@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bell</folder>
+	<filename>bell_0071.jpg</filename>
+	<path>C:\Users\이세정\Desktop\data\bell\bell_0071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>117</ymin>
+			<xmax>158</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>entrance</folder>
+	<filename>entrance_0213.jpg</filename>
+	<path>C:\Users\이세미\Desktop\data\entrance\entrance_0213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>entrance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>9</ymin>
+			<xmax>190</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

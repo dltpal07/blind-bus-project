@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>bus-project</title>
+</head>
+<body>
+    <div class="buttons">
+           
+        
+     
+        <div>
+            <button style="WIDTH: 100px; HEIGHT: 100px" class="bnum">버스 번호</button>
+            <button style="WIDTH: 100px; HEIGHT: 100px" class="entrance">입구</button>
+        </div>
+        <br>
+        <div>
+            <button style="WIDTH: 100px; HEIGHT: 100px" class="terminal">단말기</button>
+            <button style="WIDTH: 100px; HEIGHT: 100px" class="seat">좌석</button>
+        </div>
+        <br>
+        <div>
+            <button style="WIDTH: 100px; HEIGHT: 100px" class="bell">하차 벨</button>
+            <!-- <button style="WIDTH: 100px; HEIGHT: 100px" class="exit">출구</button> -->
+        </div>
+    </div>
+
+</body>
+
+<script>
+    const bell = document.querySelector('.bell')
+    bell.addEventListener('click', function(e){
+        console.log(bell.className);
+        location.href = "http://localhost:5000/bell"
+    })
+    const seat = document.querySelector('.seat')
+    seat.addEventListener('click', function(e){
+        console.log(seat.className);
+        location.href = "http://localhost:5000/seat"
+    })
+    const entrance = document.querySelector('.entrance')
+    entrance.addEventListener('click', function(e){
+        console.log(entrance.className);
+        location.href = "http://localhost:5000/entrance"
+    })
+    
+    const exit = document.querySelector('.bnum')
+    exit.addEventListener('click', function(e){
+        console.log(exit.className);
+        location.href = "http://localhost:5000/bus_number"
+    })
+
+    const terminal = document.querySelector('.terminal')
+    terminal.addEventListener('click', function(e){
+        console.log(terminal.className);
+        location.href = "http://localhost:5000/terminal"
+    })
+    
+    
+</script>
+
+<style>
+    .buttons {
+        display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        padding-top: 200px
+    }
+   
+    
+</style>
