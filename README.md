@@ -16,5 +16,5 @@ visualization_utils로 수정하였다.
 intel에서 제공해주는 샘플 코드를 사용하였다.
 (https://www.intelrealsense.com/sdk-2/)
 intel RealSense SDK 2.0의 samples의 save-to-disk를 code의 save-to-disk 폴더로 수정하였다.
-(python.h 사용하기 위하여 visual studio 환경 설정 필요 - https://velog.io/@dltpal07/visual-studio-c%EC%97%90%EC%84%9C-python-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0)
+(python.h 헤더를 사용하기 위하여 visual studio 환경 설정 필요 - https://velog.io/@dltpal07/visual-studio-c%EC%97%90%EC%84%9C-python-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0)
 
