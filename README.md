@@ -21,3 +21,6 @@ intel RealSense SDK 2.0의 samples의 save-to-disk를 code의 save-to-disk 폴�
 (python.h 헤더를 사용하기 위하여 visual studio 환경 설정 필요 - 
 https://velog.io/@dltpal07/visual-studio-c%EC%97%90%EC%84%9C-python-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0)
 
+##result video
+
+https://www.youtube.com/watch?v=ms3j9oFEATc&list=PLMr9Py20DqB8egngaECB2Og1njsoT0u5P&index=4
