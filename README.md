@@ -23,4 +23,4 @@ https://velog.io/@dltpal07/visual-studio-c%EC%97%90%EC%84%9C-python-%ED%98%B8%EC
 
 ## result video
 
-https://www.youtube.com/watch?v=ms3j9oFEATc&list=PLMr9Py20DqB8egngaECB2Og1njsoT0u5P&index=4
+[https://www.youtube.com/watch?v=ms3j9oFEATc&list=PLMr9Py20DqB8egngaECB2Og1njsoT0u5P&index=4](https://youtu.be/c2A_mSFGa3k)
